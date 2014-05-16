@@ -17,7 +17,7 @@ Coming Soon...
 ## Collaborators:
 
 * Kantara Initiative, Consent and Information Sharing Workgroup
-http://....? 
+https://kantarainitiative.org/confluence/display/infosharing/Home
 Point of Contact: Ian Henderson 
 
 * Open Notice Initiative, 
