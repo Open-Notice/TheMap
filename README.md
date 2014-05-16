@@ -1,3 +1,5 @@
+# Overview
+
 TheMap Repository contains:
 
 * The authoritative version of the current and past Road Map, Ecosystem Map and such other maps as the collaborators may agree:
@@ -6,37 +8,34 @@ TheMap Repository contains:
 
 # Current Road Map and Ecosystem Map:
 
-RaodMap.md
+Links to the RoadMap.md file in corresponding distributed repositories of collaborators
 
-## Links to the RoadMap.md file in corresponding distributed repositories of collaborators
+* Open-Notice: RoadMap.md (coming soon) 
 
-Open-Notice: RoadMap.md (coming soon) 
+* Kantara: 
 
-Kantara: 
-
-MIT: https://github.com/eCitizen/TheMap
+* MIT: https://github.com/eCitizen/TheMap/RoadMap.md (coming soon)
 
 Coming Soon...
 
 # Links to Collaborators and Key Resources:
 
-## Collaborators:
+## Kantara Initiative, Consent and Information Sharing Workgroup
 
-* Kantara Initiative, Consent and Information Sharing Workgroup
-https://kantarainitiative.org/confluence/display/infosharing/Home
-Point of Contact: Ian Henderson 
+* https://kantarainitiative.org/confluence/display/infosharing/Home
+* Point of Contact: Ian Henderson 
 
-Link to 
+* Link to Kantara xyz file... etc
 
-* Open Notice Initiative, 
+## Open Notice Initiative, 
 http://opennotice.org
 Point of Contact: Mark Lizar
 
-Link to 
+* Link to OpenNotice files... etc
 
-* MIT Media Lab, eCitizen Legal Science Team
-http://eCitizen.MIT.edu/TheMap
-Point of Contact: Dazza Greenwood
+## MIT Media Lab, eCitizen Legal Science Team
+* http://eCitizen.MIT.edu/TheMap
+* Point of Contact: Dazza Greenwood
 
-Link to ClearButton Initiatives Files: (coming soon.  project site: http://clearbutton.net) 
+* Link to ClearButton Initiatives Files: (coming soon.  project site: http://clearbutton.net) 
 
