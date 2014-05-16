@@ -28,8 +28,8 @@ Coming Soon...
 * Link to Kantara xyz file... etc
 
 ## Open Notice Initiative, 
-http://opennotice.org
-Point of Contact: Mark Lizar
+* http://opennotice.org
+* Point of Contact: Mark Lizar
 
 * Link to OpenNotice files... etc
 
