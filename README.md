@@ -14,7 +14,7 @@ Open-Notice: RoadMap.md (coming soon)
 
 Kantara: 
 
-MIT: https://github.com/eCitizen/TheMap/RoadMap.md (coming soon)
+MIT: https://github.com/eCitizen/TheMap
 
 Coming Soon...
 
