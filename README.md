@@ -14,7 +14,7 @@ Links to the RoadMap.md file in corresponding distributed repositories of collab
 
 * Kantara: 
 
-* MIT: https://github.com/eCitizen/TheMap/RoadMap.md (coming soon)
+* MIT: https://github.com/eCitizen/TheMap/blob/master/RoadMap.md (LIVE)
 
 Coming Soon...
 
